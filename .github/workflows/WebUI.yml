@@ -10,6 +10,6 @@ jobs:
          - name: HCL DevOps Test WebUI
            uses: HCL-TECH-SOFTWARE/devops-test-web-action@main
            with:
-            workspace: <C:\Data\SampleWorkspace>
-            project: <MyProject>
-            suite: <MySuite>
+            workspace: C:\Users\preethi.as\Documents\WorkSpace-2024
+            project: webUITest
+            suite: test1
